@@ -1,4 +1,4 @@
 wainetam.github.io
 ==================
 
-Thinkful demo pages
+visial clone of Google.com
